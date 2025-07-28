@@ -50,7 +50,7 @@ Run the executable from an empty folder to ensure proper setup and avoid conflic
 
 To run from source:
 ```bash
-pip install cryptography
+pip install cryptography tk
 python main.py
 ```
 
